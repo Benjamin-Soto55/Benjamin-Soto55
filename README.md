@@ -2,7 +2,6 @@
 <h1 align="center">Hola, soy Benjamin Soto 👋</h1>
 <h3 align="center">Estudiante de la Tecnicatura en Desarrollo de Software | Full Stack Jr</h3>
 <p align="center"> Estudiando y desarrollando en Java, Python y tecnologías web. </p>
----
 ### 🛠️ Tecnologías y Herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,mysql,git,github,netbeans,figma" />
